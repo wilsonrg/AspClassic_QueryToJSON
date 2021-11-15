@@ -3,11 +3,11 @@ Converte resultados de um SELECT para o formato Json
 
 # PASSO 01 - Arquivos/Programas Externos:
 Baixe os arquivos listados abaixo e deixe nas respectivas pastas:
-//JQUERY
 
+//JQUERY
 Link para copiar a versão mais recente: https://jquery.com/
-##Arquivo: jquery.js ou jquery.min.js
-##Pasta: js
+- Arquivo: jquery.js ou jquery.min.js
+- Pasta: js
 
 //JSON 2.0.4
 
